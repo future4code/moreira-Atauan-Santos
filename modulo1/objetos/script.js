@@ -84,11 +84,47 @@ apelidos: ["Tata","Nego Catraca", "Preto"],
 
  // 2 Questão
 
- /* const pessoa = {
-   nome: "Atauan Izidorio Lima Santos",
+/* const pessoa = [
+	 {
+   nome: "Atauan",
    idade: "26",
    profissao: "Marketing Digital",
- }
- console.log(`${pessoa.nome}, ${pessoa.nome.length}, ${pessoa.idade}, ${pessoa.profissao}, ${pessoa.profissao.length}`)*/
+ 	}
+	 {
+	 nome: "Aparecido"
+	 idade: 58
+	 profissao: "Oficial de justiça"
+	 }
+function listaPessoas(pessoa[0], pessoa[1]) {
+  return pessoa.nome, pessoa.nome.length, pessoa.idade, pessoa.profissao, pessoa.profissao.length
+        pessoa1.nome, pessoa1.nome.length, pessoa1.idade, pessoa1.profissao, pessoa1.profissao.length
+}
+	console.log(listaPessoas)*/
+
+
+
+// 3 Questão
+
+
+/* const carrinho = []
+      const frutas = [
+        {
+        nome: "Tangerina",
+        disponibilidade: true
+        },
+        {
+        nome: "Jambo",
+        disponibilidade: true
+        },
+        {
+        nome: "Goiaba",
+        disponibilidade: true
+        }
+      ];
+      const adcFrutas = (objeto) => {
+        return carrinho.push(objeto)
+      }
+      adcFrutas(frutas)
+      console.log(carrinho */
 
  
