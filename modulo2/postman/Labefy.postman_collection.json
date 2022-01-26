@@ -1,0 +1,17 @@
+{
+	"info": {
+		"_postman_id": "a045a53b-5ebc-4305-a495-bac2416c657d",
+		"name": "Labefy",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
