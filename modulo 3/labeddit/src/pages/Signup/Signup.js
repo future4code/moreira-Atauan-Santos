@@ -7,6 +7,7 @@ import AccountBoxIcon from '@mui/icons-material/AccountBox';
 import AlternateEmailIcon from '@mui/icons-material/AlternateEmail'
 import PasswordIcon from '@mui/icons-material/Password'
 
+
 export default function Signup() {
 
     const navigate = useNavigate()
