@@ -1,0 +1,17 @@
+{
+  "name": "intro-typescript",
+  "version": "1.0.0",
+  "description": "Exercicios type script",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "\"echo 'Ola Atauan'\""
+  },
+  "keywords": [
+    "node",
+    "package.json",
+    "backend"
+  ],
+  "author": "Atauan",
+  "license": "ISC"
+}
