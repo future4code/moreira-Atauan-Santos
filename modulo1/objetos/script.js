@@ -10,7 +10,7 @@
 		{canal: "Telecine", horario: "21h"}, 
 		{canal: "Canal Brasil", horario: "19h"}, 
 		{canal: "Globo", horario: "14h"}
-		]
+		].
 }
 
 console.log(filme.elenco[0])
